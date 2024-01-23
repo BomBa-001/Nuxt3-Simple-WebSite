@@ -37,7 +37,7 @@
 #### 001 Clone the repository into your projects directory:
 
 ```
-git clone https://github.com/BomBa-001/CV-BomBa.git
+git clone https://github.com/BomBa-001/Nuxt3-Simple-WebSite.git
 ```
 
 #### 002 go to folder Application:
